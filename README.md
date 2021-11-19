@@ -33,16 +33,6 @@
 - `npm install eslint`
 - `node_modules/.bin/eslint --init`
 - 위 명령어를 입력하고 난 후 몇가지 옵션을 선택하면 eslintrc.js가 생성된다.
-  ✔ How would you like to use ESLint? · problems
-  ✔ What type of modules does your project use? · esm
-  ✔ Which framework does your project use? · none
-  ✔ Does your project use TypeScript? · No / Yes
-  ✔ Where does your code run? · browser✔ What format do you want your config file to be in? · JavaScript
-  Local ESLint installation not found.
-  The config that you've selected requires the following dependencies:
-  eslint@latest
-  ✔ Would you like to install them now with npm? · No / Yes
-
 - package.json 설정
 ```
 "scripts": {
